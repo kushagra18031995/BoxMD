@@ -1,0 +1,45 @@
+.App {
+  justify-content: space-evenly;
+}
+.nav-class {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  color: rgb(255, 255, 255);
+}
+.nav-length {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.home {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  justify-content: space-around;
+}
+.guest-background {
+  justify-content: flex-start;
+}
+.text {
+  color: white;
+}
+.image-gallary {
+  height: 150px;
+  width: 150px;
+  border-radius: 10%;
+}
+.contact {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  justify-content: space-around;
+}
+.text-size {
+  font-size: 15px;
+}
+.btn-change {
+  text-align: center;
+}
